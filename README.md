@@ -1,6 +1,7 @@
 # Excel to Word to PDF Automation
 
 This Python script automates the process of generating PDFs from Excel data by filling a Word template with data from an Excel sheet, then converting it to PDF.
+This repository contains a Python script designed to automate the process of generating PDFs from Excel data, which is particularly useful for my current work of automating document generation tasks. The script fills out a Word template using data from an Excel sheet and converts the completed Word documents into PDFs. This automation significantly reduces manual work and improves efficiency in managing bulk document creation.
 
 ## Prerequisites
 
